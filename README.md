@@ -3,6 +3,7 @@
 ### ASL-3 + CBRN-3 Bypassed
 ### On Day of Release (May 22, 2025): 
 ### How to Make Ricin and MDMA by [@elder_plinius](https://x.com/elder_plinius/status/1925694301708665037) 
+![image](https://github.com/user-attachments/assets/285c4775-9474-4b7c-ba09-6fb8d03ac1b3)
 
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/3053bc3d-6617-47b0-85d8-914221835e88" />
 
