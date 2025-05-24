@@ -1,5 +1,5 @@
 # ASL-3-Danger-Reports
-Global AI Safety Level 3 Danger Reports
+## Global AI Safety Level 3 Danger Reports
 ### Claude 4 Opus + Sonnet 
 ### DAY OF RELEASE: 
 ### CBRN-3 Bypassed
