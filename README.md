@@ -2,7 +2,7 @@
 ## Global AI Safety Level 3 Danger Reports
 ### Claude 4 Opus + Sonnet 
 ### DAY OF RELEASE: 
-### CBRN-3 Bypassed
+### ASL-3 + CBRN-3 Bypassed
 ### How to Make Ricin and MDMA by [@elder_plinius](https://x.com/elder_plinius/status/1925694301708665037) 
 
 <img width="902" alt="image" src="https://github.com/user-attachments/assets/3053bc3d-6617-47b0-85d8-914221835e88" />
