@@ -1,5 +1,4 @@
-# ASL-3-Danger-Reports
-## Global AI Safety Level 3 Danger Reports
+# Global ASL-3 Danger Reports
 ### Claude 4 Opus + Sonnet 
 ### ASL-3 + CBRN-3 Bypassed
 ### On Day of Release (May 22, 2025): 
